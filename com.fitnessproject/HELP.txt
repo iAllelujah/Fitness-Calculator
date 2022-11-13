@@ -1,0 +1,58 @@
+BMI :- Body mass index is a value derived from the mass and height of a person.
+       The BMI is defined as the body mass divided by the square of the body height,
+       and is expressed in units of kg/m².
+       If your BMI is 18.5 to 24.9, it falls within the normal or Healthy Weight range. 
+       If your BMI is 25.0 to 29.9, it falls within the overweight range
+__________________________________________________________________________________________________________________
+
+BP Low :- Low blood pressure is a reading of less than 90/60mmHg. 
+          It does not always cause symptoms, but you may need treatment if it does.
+
+__________________________________________________________________________________________________________________
+
+
+BP High :- Some health care professionals diagnose patients with high blood pressure if 
+           their blood pressure is consistently 140/90 mm Hg or higher.
+
+__________________________________________________________________________________________________________________
+
+Pulse Rate :- The normal pulse for healthy adults ranges from 60 to 100 beats per minute. 
+              The pulse rate may fluctuate and increase with exercise, illness, injury, and emotions. 
+              Females ages 12 and older, in general, tend to have faster heart rates than do males.
+
+__________________________________________________________________________________________________________________
+
+RBC Count :- A normal Red Blood Cell count would be around: 
+             men = 4.0 to 5.9 x 10*12/L, 
+             women = 3.8 to 5.2 x 10*12/L.
+
+__________________________________________________________________________________________________________________
+
+WBC Count :- he normal number of White Blood Cell in the blood is: 
+             4,500 to 11,000 WBCs per microliter (4.5 to 11.0 × 109/L).
+
+__________________________________________________________________________________________________________________
+
+Platelets :- They are small, colorless cell fragments in our blood that form clots and stop or prevent bleeding.
+             A normal platelet count in adults ranges from 150,000 to 450,000 platelets per microliter of blood.
+
+__________________________________________________________________________________________________________________
+
+Hemoglobin :- It is a protein in your red blood cells that carries oxygen to your body's organs and tissues, 
+              it transports carbon dioxide from your organs and tissues back to your lungs.
+              The healthy range for hemoglobin is: 
+              Men = 13.2 to 16.6 grams/ deciliter, 
+              Women = 11.6 to 15 grams/ deciliter.
+
+___________________________________________________________________________________________________________________
+
+Uric Acid :- It is a waste product found in blood. It's created when the body breaks down chemicals called purines.
+             Most uric acid dissolves in the blood, passes through the kidneys and leaves the body in urine.
+             Normal values range between 3.5 to 7.2 milligrams per deciliter (mg/dL).
+
+___________________________________________________________________________________________________________________
+
+Cholestrol :-  Average cholesterol in adults: 
+               Normal = Less than 200 mg/dL. 
+               Borderline high = 200 to 239 mg/dL. 
+               High = At or above 240 mg/dL.
